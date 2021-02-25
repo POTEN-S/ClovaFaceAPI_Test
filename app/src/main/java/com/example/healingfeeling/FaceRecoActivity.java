@@ -1,7 +1,6 @@
-package com.example.emotionmatching;
+package com.example.healingfeeling;
 
 import android.Manifest;
-import android.app.AppComponentFactory;
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.content.pm.PackageManager;
@@ -15,7 +14,6 @@ import android.os.Bundle;
 import android.provider.MediaStore;
 import android.view.View;
 import android.widget.Button;
-import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -27,11 +25,11 @@ import androidx.core.content.FileProvider;
 import androidx.databinding.DataBindingUtil;
 
 import com.bumptech.glide.Glide;
-import com.example.emotionmatching.databinding.ActivityFaceRecoBinding;
-import com.example.emotionmatching.emotion.Emotion;
-import com.example.emotionmatching.emotion.Face;
-import com.example.emotionmatching.emotion.FaceResult;
-import com.example.emotionmatching.emotion.NaverService;
+import com.example.healingfeeling.databinding.ActivityFaceRecoBinding;
+import com.example.healingfeeling.emotion.Emotion;
+import com.example.healingfeeling.emotion.Face;
+import com.example.healingfeeling.emotion.FaceResult;
+import com.example.healingfeeling.emotion.NaverService;
 import com.makeramen.roundedimageview.RoundedImageView;
 
 import java.io.File;

@@ -1,4 +1,4 @@
-package com.example.emotionmatching.emotion;
+package com.example.healingfeeling.emotion;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

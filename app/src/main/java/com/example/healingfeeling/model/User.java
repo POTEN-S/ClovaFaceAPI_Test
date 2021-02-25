@@ -1,4 +1,4 @@
-package com.example.emotionmatching.model;
+package com.example.healingfeeling.model;
 
 
 public class User {

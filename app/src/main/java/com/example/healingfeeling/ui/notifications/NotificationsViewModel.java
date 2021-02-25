@@ -1,4 +1,4 @@
-package com.example.emotionmatching.ui.notifications;
+package com.example.healingfeeling.ui.notifications;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

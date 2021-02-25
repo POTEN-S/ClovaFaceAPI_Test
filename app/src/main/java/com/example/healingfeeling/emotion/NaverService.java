@@ -1,4 +1,4 @@
-package com.example.emotionmatching.emotion;
+package com.example.healingfeeling.emotion;
 
 import okhttp3.MultipartBody;
 import retrofit2.Call;

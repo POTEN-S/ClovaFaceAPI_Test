@@ -1,4 +1,4 @@
-package com.example.emotionmatching;
+package com.example.healingfeeling;
 
 import org.junit.Test;
 
